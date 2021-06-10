@@ -10,4 +10,4 @@ We are interested in what you think we can do to best help developers. We want t
 
 ## Follow GitHub Policy
 
-Periodically we will update content here to highlight our work for developers. You can also visit our [webpage](#holder), read our [policy blog](https://github.blog/category/company/policy/), and follow us on Twitter at [@GitHubPolicy](https://twitter.com/githubpolicy).
+Periodically we will update content here to highlight our work for developers. You can also visit our [webpage](#holder), read our [Policy Blog](https://github.blog/category/company/policy/), and follow us on Twitter at [@GitHubPolicy](https://twitter.com/githubpolicy).
