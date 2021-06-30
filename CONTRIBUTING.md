@@ -7,7 +7,7 @@ We welcome issues on the following topics:
 - Additional policy areas that GitHub should consider engaging on in order to support developers.
 
 To keep the conversation focused on how we can best help developers through our policy work, we moderate off-topic content. GitHub maintains a number of ways for you to get in touch on other topics, including:
-- You can review changes to our site policies and offer feedback in our [dedicated repository](https://github.com/github/site-policy)
+- You can review changes to our site policies and offer feedback in our dedicated [site-policy repository](https://github.com/github/site-policy)
 - You can share feedback on our products using our dedicated [feedback repository](https://github.com/github/feedback)
 
 Contributions to this project are dedicated to the public domain under [CC0-1.0](LICENSE.md).
