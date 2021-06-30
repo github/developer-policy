@@ -4,7 +4,7 @@ As the home for all developers, GitHub is committed to shaping policies that pro
 
 The GitHub Policy Team created and maintains this repository as a place for developers to contribute to our policy work. We want to hear from you!
 
-## How can I help?
+## How you can help
 
 We are interested in what you think we can do to best help developers. We want to hear about policy opportunities and new policy areas that you think GitHub should pursue to advance developers’ rights to innovation, collaboration, and equal opportunity. Please check out our [Contribution Guidelines](CONTRIBUTING.md) before opening an issue.
 
