@@ -4,8 +4,8 @@ Thanks for helping shape GitHub’s policy work. Please fill out the form below 
 
 Hi GitHub Policy, I have a policy suggestion that I’d :heart: your :eyes: on!
 
-- [ ] I have read the (Contributing Guidelines)[CONTRIBUTING.md]
-- [ ] I have reviewed your website that describes GitHub’s policy priorities
+- [ ] I have read the [Contributing Guidelines](CONTRIBUTING.md)
+- [ ] I have reviewed your priorities and examples of past work at [developer-policy/issue-areas](https://github.com/github/developer-policy/issue-areas)
 
 ### What are you asking us to do?
 
