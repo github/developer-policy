@@ -1,0 +1,1459 @@
+MAILING COVER SHEET 
+Tenth Triennial Section 1201 Rulemaking -2027 Cycle 
+Docket No. 2026-4 
+TO: 
+U.S. Copyright Office 
+Office of the General Counsel 
+Attn: Section 1201 Rulemaking - Docket No. 2026-4 
+101 Independence Avenue SE 
+Washington, DC 20559-6000 
+FROM: 
+Marshall R. Shannon 
+1468 Meadowlark Lane 
+Lancaster, Texas 75146 
+214-707-4440 
+Regulations@21 cfr820. net 
+RE: Petition materials concerning medical-device diagnosis, installation, maintenance , repair, 
+calibration, and return to service 
+ENCLOSURES: Copies only-not originals-of the petition and supporting exhibits identified in 
+the accompanying exhibit index. 
+ONLINE FORM UNAVAILABLE: The Regulations.gov form would not allow online submission 
+and stated that it was not currently accepting feedback. I am therefore mailing this package. 
+Please let me know if I must file online again once the online form is functional, and I will 
+promptly do so. 
+REQUEST: Please associate any authorized hard-copy submission with Docket No. 2026-4. 
+The submitter remains available to provide additional information or participate in any 
+authorized hearing, roundtable, technical conference, oral questioning, or other formal 
+proceeding. 
+Respecttully sub1~~ 
+S1gnature:_.p;~'----~~-- ---'----- ------- -­
+Marshall R. 4Shannon 
+Date: '- ~ .:Tl/ty 2.£JZ4, 
+I 
+SUBMISSION AND EXHIBIT-DELIVERY INSTRUCTIONS 
+Submission method used: The Regulations.gov form was unavailable, so this package is being 
+mailed. Retain a complete copy and delivery tracking. If electronic resubmission is requested 
+after the online form is restored, submit the same materials online as directed.
+
+BEFORE THE UNITED STATES COPYRIGHT OFFICE 
+LIBRARY OF CONGRESS 
+TENTH TRIENNIAL SECTION 1201 
+RULEMAKING 
+2027 CYCLE - DOCKET NO. 2026-4 
+PETITION TO RENEW AND SUPPORTING 
+STATEMENT 
+AND PETITION FOR A NEW OR MODIFIED 
+EXEMPTION 
+FOR MEDICAL-DEVICE DIAGNOSIS, 
+INSTALLATION, 
+MAINTENANCE, REPAIR, CALIBRATION, 
+AND RETURN TO SERVICE 
+Submitted by 
+MARSHALL R. SHANNON 
+1468 Meadowlark Lane 
+Lancaster, Texas 75146 
+214-707-4440 
+Regulations@21cfr820.net 
+FDA-regulated medical-device manufacturer, medical-imaging engineer, installer, and independent servicer 
+with nearly thirty years of MRI, CT, and X-ray experience installing, restoring, testing, and safely returning new, used, 
+and resold systems to service throughout the United States and internationally 
+Marshall R. Shannon - Section 120 I Medical-Device Petition - Page 1
+
+IMPORTANT NOTICE REGARDING OPTIONS, OPINIONS, AND LEGAL ADVICE 
+This submission is not legal advice. The opinions, interpretations, factual characterizations, and policy positions 
+expressed are those of Marshall R. Shannon alone. They do not create, establish, or adjudicate legal standing, legal 
+status, liability, immunity, or entitlement to relief, and they should not be understood as findings by the Copyright 
+Office, the Library of Congress, Congress, FDA, HHS, FTC, DOJ, or any court. 
+Mr. Shannon understands that the Copyright Office requires separate forms for ( l) renewal of an existing 
+exemption as currently written and (2) any proposed new or modified exemption. He further understands that the 
+petition phase is an initial, limited phase; the fuller legal and evidentiary record for a proposed new or expanded 
+exemption is developed during the later public-comment phase. He may request to participate in the Office's public 
+hearings when participation procedures are announced, and the Office may accept, reject, narrow, group, or 
+otherwise address the proposed class. 
+Mr. Shannon believes that his repeated reporting of potential medical-device safety, regulatory, competition, and 
+access concerns to federal authorities may qualify as protected whistleblower activity under one or more laws. He 
+does not assert that any agency or court has formally determined that he is a whistleblower or that any specific 
+statutory protection applies. He reserves any rights and protections that may lawfully exist. 
+Public docket entries, complaints, motions, letters, and party submissions are cited as records of what was filed, 
+asserted, requested, or ordered. Unless this submission expressly identifies a holding, judgment, or finding, those 
+materials should not be read as adjudicated facts. Docket status is stated only through the most recent public record 
+reviewed and may later change. 
+I. PETITIONER AND PROFESSIONAL BACKGROUND 
+Marshall R. Shannon is an FDA-regulated medical-device manufacturer, veteran medical-imaging engineer, 
+installer, independent service professional, and author of Through Fire: The Story of an MRI Engineer. For more 
+than three decades, he has worked to keep MRI, CT, and X-ray systems properly installed, accurately calibrated, 
+safely maintained, and available to the patients and communities that depend on them. 
+His field experience spans nearly every state in the United States and international work in India, Russia, China, 
+Costa Rica, Argentina, Germany, Switzerland, Spain, Canada, Mexico, and other countries. He has supported rural 
+clinics where a single scanner serves an entire region, major hospitals with complex imaging operations, and 
+developing communities receiving advanced medical-imaging capability for the first time. 
+His work includes installation and reinstallation of new, used, and resold systems; relocation and commissioning; 
+software installation and restoration; magnet shimming; cryogenics; ramping and de-ramping; coldhead rebuilding; 
+gradient and magnet maintenance; calibration; FDA-related performance testing; mobile MRI support; diagnosis; 
+repair; and final return-to-service verification. He has trained engineers and supported hospital personnel when 
+equipment failure delayed patient care. 
+His continuing advocacy for device and patient safety grew directly from that field experience. He has documented 
+missing installation steps, restricted service functions, blocked safety procedures, disappearing diagnostic tools, 
+remote-service pathways, and access changes that affect lawful service. He has pursued clarification through FDA 
+and DICE, submitted concerns to FTC, HHS, DOJ, Congress, and other federal bodies, provided regulatory 
+materials to Philips, maintained 21 CFR820.net, and offered his records and technical knowledge for formal 
+review. 
+Because Mr. Shannon installs and restores used and resold medical-imaging systems, much of his work occurs 
+after the original OEM sale and outside an active OEM service contract. The equipment owner nevertheless 
+remains responsible for placing the device into safe and lawful operation. Installers and service providers must 
+therefore be able to obtain and use the procedures, software functions, calibration pathways, records, and technical 
+information necessary to complete that work. 
+Marshall R. Shannon - Section 1201 Medical-Device Petition - Page 2
+
+II. RELIEF REQUESTED 
+A. Renewal of the Existing Exemption 
+Mr. Shannon requests renewal of the existing exemption for circumvention of technological protection measures 
+on lawfully acquired medical-device software when necessary for diagnosis, maintenance, or repair. 
+B. Clarification or Modified Exemption 
+He also requests clarification or a modified exemption expressly covering owner-authorized installation, 
+reinstallation, software setup, operating-system and application restoration, relocation, commissioning, calibration, 
+performance verification, service-data access, cybersecurity-related reconfiguration, and return to service for new, 
+used, and resold medical devices. 
+The requested clarification should not be limited to replacing a failed component. Modem medical-device work 
+often involves a connected sequence: assessment, disassembly where necessary, transportation , software and 
+configuration restoration, reassembly, installation, inspection, calibration, performance testing, documentation, and 
+final return to clinical service. Each step may require interaction with copyrighted software or a technological 
+access control. 
+The exemption should remain technology-neutral. Protection should not depend on whether the manufacturer calls 
+the same function a service tool, installation utility, diagnostic application, configuration interface, certificate, 
+credential, log viewer, commissioning program, or cybersecurity feature. 
+Ill. PROPOSED CLASS OF WORKS 
+Computer programs that operate, control, diagnose, monitor, configure, calibrate, install, service, maintain, test, or 
+restore medical devices or systems, including related service interfaces, logs, configuration data, certificates, 
+credentials, utilities, and technical materials, when circumvention is performed by the owner or an authorized 
+service provider solely for lawful diagnosis, installation, maintenance, repair, calibration, cybersecurity, or return 
+to service. 
+IV. NONINFRINGING USES AND PRACTICAL CIRCUMVENTION 
+Modem medical devices cannot be safely installed or serviced without interacting with embedded software, service 
+modes, configuration files, logs, certificates, credentials, and diagnostic utilities. Circumvention may require more 
+than entering a password. It may require technically necessary creation, modification, replacement, renaming, 
+movement, reset, restoration, or deletion of files, registry entries, certificates, credentials, settings, scheduled tasks, 
+or network destinations. 
+Those acts should be covered when they are owner-authorized, technically necessary, and limited to lawful service. 
+They should not be treated as unlawful merely because the OEM placed necessary lower-level functions behind the 
+same control as unrelated higher-level material. 
+Ordinary service activity may also cause the system itself to update timestamps, logs, caches, configuration 
+records, registry values, and service-history entries. A technically necessary or automatically generated change 
+should not be characterized as evidence destruction or unlawful modification merely because the device 
+electronically records the service event. 
+A manufacturer-prescribed software reload or restoration should not, by itself, support an inference of evidence 
+destruction. OEM service procedures may direct personnel to reload operating software, applications, 
+configuration files, or system images when software is corrupted, unstable, nonfunctional, or otherwise unable to 
+support safe device operation. 
+The same analysis may apply when a software update changes the access architecture, introduces additional 
+technological controls, or makes a previously available service pathway unavailable. A reload or restoration 
+performed in accordance with documented manufacturer procedures may be necessary to diagnose the condition, 
+restore intended functionality, complete installation or service, and return the device to safe operation. 
+Marshall R. Shannon - Section 120 I Medical-Device Petition - Page 3
+
+Such a reload may replace or alter temporary files, cached data, software components, logs, or configuration 
+artifacts as an ordinary and expected technical consequence of the procedure. That result should be evaluated in 
+context rather than treated as dispositive of spoliation or wrongful deletion. Any preservation or evidence issue 
+should depend on the applicable legal duty, notice, intent, timing, the availability of other records or backups, and 
+the specific facts surrounding the service event. 
+V. COMMINGLING OF SERVICE FUNCTIONS AND RESTRICTED MATERIAL 
+Mr. Shannon's experience is that Philips moved or placed lower-level and customer-facing service functions 
+behind the same access environment used for Level 1, Level 2, or other restricted materials. This architecture 
+allows the OEM to argue that entry into the combined environment proves access to every work within it, even 
+where the servicer used only the lower-level function and did not open, copy, disclose, or use higher-level material. 
+The legal result should turn on purpose and actual use, not on the manufacturer's unilateral design of the gate. 
+Commingling protected and unprotected works should not allow an OEM to remove otherwise lawful repair, 
+installation, testing, or safety functions from the exemption. 
+Philips's November 2018 R3.2.3 Service Pack 5 newsletter provides a concrete example of this architecture . The 
+document is itself labeled CSIP Level 1 and states that SPS was intended to implement changes relating to 
+Customer Support Intellectual Property. It explains that an IST dongle would thereafter be required to access on­
+device software tools, except certain configuration tools, and that users would need a Philips 1ST smartcard , a valid 
+IST account, and the appropriate system entitlements. 
+The same newsletter states that customer biomedical engineers would receive only a restricted set of service 
+documentation and software tools. It further explains that tasks previously accessible under certain customer 
+service arrangements would no longer be available to customer biomedical engineers and would instead be placed 
+at Level 2 for Philips field service engineers and authorized trade partners. 
+The newsletter also identifies document reclassification : SMI manuals were moved from CSIP Level O to CSIP 
+Level 1, and SPD manuals were moved from CSIP Level 1 to CSIP Level 2. It directs that the newsletter not be 
+shared with customers. These statements are significant because they show that the access level was not merely 
+describing the inherent character of a tool or manual; Philips affirmatively changed which level controlled material 
+that had previously been available at a lower level. 
+The CSIP and IST materials further show that access depends on a mapping among CSIP level, IST entitlement , 
+and the service level recognized by the software. A user may therefore confront one technological gate controlling 
+multiple layers of service functionality. Where a basic installation or service function is moved behind that gate, 
+entering the environment can later be characterized in litigation as access to a higher-level protected area even 
+when the servicer's actual purpose and use were limited to the basic function. 
+Mr. Shannon does not ask the Copyright Office to determine that every reclassification was improper or that every 
+higher-level item must be disclosed. He asks the Office to recognize the practical consequence : an OEM should not 
+be able to relocate an otherwise lawful installation, configuration , diagnostic, or service function behind a higher 
+technological level and then rely solely on entry through that level as proof that the servicer accessed or used 
+unrelated protected material. 
+A workable rule should separate access from use. Entering a combined service environment should not create an 
+irrebuttable presumption that the servicer opened, copied, or used every protected work available within that 
+environment. The relevant questions should include the owner's authorization, the service purpose, the functions 
+actually used, and whether any protected expression was copied, disclosed, or exploited. 
+VI. PRIVATE LITIGATION AS A PRACTICAL SUBSTITUTE FOR REPEAL 
+Medical-imaging manufacturer trade associations challenged the medical-device exemption by arguing that third­
+party circumvention threatens control over software, access restrictions, safety, cybersecurity , and proprietary 
+material. Mr. Shannon contends that Philips uses the same basic theory in private disputes: access is treated as 
+Marshall R. Shannon - Section 120 l Medical-Device Petition - Page 4
+
+unlawful because Philips did not authorize the method, and entry into a combined environment is treated as 
+evidence of access to all material. 
+In Philips North America LLC v. Image Technology Consulting, LLC et al., No. 3:22-cv-00147 (N.D. Tex.), 
+Philips asserted DMCA, CF AA, trade-secret, fraud, and related claims concerning service access. The November 
+I 0, 2025 Carla M. Wirtschafter letter used service-related terms-including sale, repair, service, refurbishment, 
+modification, and installation-while describing Philips's enforcement position concerning certificates, registry 
+changes, files, keys, passwords, service tools, and log files. 
+The Jose Pons and Imaging Service Solutions correspondence provides a documented example. Philips's letters 
+asserted DMCA, CF AA, trade-secret, and related concerns, stated that the company's account had been blocked, 
+and described circumstances under which reconsideration might occur. Philips then filed Philips North America, 
+LLC v. Imaging Service Solutions, LLC and Jose Pons, No. 1 :26-cv-01497 (D. Md.), on April 17, 2026. The 
+public docket reviewed through May 26, 2026 reflected service and scheduling activity, not a merits determination. 
+These materials are cited only as evidence of asserted claims, expense, and potential chilling effect; they are not 
+findings that either side's allegations are true or false. 
+The practical concern is that an exemption may remain formally valid while an ISO must still endure years of 
+overlapping litigation to establish whether the protected service activity can be performed. A small ISO may be 
+forced out of business before the legal issue is resolved. 
+Mr. Shannon filed a declaratory-judgment action on April 21, 2026, docketed as No. 3 :26-cv-0 1276 in the 
+Northern District of Texas. As he describes the requested prospective relief, the action does not ask the Copyright 
+Office to overturn the prior judgment or privately enforce the Federal Food, Drug, and Cosmetic Act. It asks a 
+federal court to address where lawful federal pathways remain for future medical-device installation and service, 
+and whether private restrictions or litigation positions may practically displace exemptions, regulations, or federal 
+requirements. This paragraph describes Mr. Shannon's pleaded position, not a judicial finding. 
+The issues identified in that action include, where applicable, 21 C.F.R. requirements governing medical-device 
+installation and servicing; 21 U .S.C. § 360k, which addresses state or local requirements different from or 
+additional to federal device requirements; and the electronic-product-radiation-control provisions in 21 U.S.C. §§ 
+360kk and 36000 concerning federal performance standards, certification, testing, information, records, and 
+prohibited acts. These authorities are cited as part of the federal framework and not as a request that the Copyright 
+Office adjudicate an FDCA violation or the merits of the pending case. 
+The filing of that declaratory action illustrates the burden Mr. Shannon identifies: an individual service 
+professional has asked a federal court to define a prospective lawful path where copyright, computer-access, 
+medical-device, safety, and regulatory obligations overlap. No statement here predicts or represents the court's 
+ultimate disposition of that action. 
+VII. REMOTE MONITORING, AUTOMATIC DATA TRANSMISSION, AND OWNER CONTROL 
+Philips medical-imaging systems may include integrated remote-service and monitoring functions capable of 
+transmitting status notifications, error logs, utilization information, service events, and related data through 
+network or SMTP-type processes. Depending on configuration, transmissions may occur automatically rather than 
+through an affirmative owner action each time information is sent. 
+An owner or authorized service provider should be permitted to disable, block, reconfigure, or remove remote 
+monitoring, automatic uploads, SMTP destinations, credentials, certificates, scheduled tasks, and related pathways 
+for cybersecurity, privacy, service transition, or data-governance reasons. Continued OEM access should depend 
+on clear owner authorization, particularly where the customer is not under an active OEM service contract. 
+This request does not assert that every historical transmission was unlawful or that every remote-service 
+connection is unsafe. It asks the Office to recognize that owner-authorized disabling of a remote pathway can itself 
+be a legitimate maintenance or cybersecurity action and should not become circumvention liability or computer 
+crime. 
+Marshall R. Shannon - Section 120 I Medical-Device Petition - Page 5
+
+VIII. FDA AND FDCA REGULATORY CONFLICT 
+Medical-device installation, servicing, quality controls, complaint handling, calibration, testing, labeling, and safe 
+return to use are governed by federal law and FDA regulation. A private access restriction should not make 
+technically impossible, or legally perilous, the work required or contemplated by that federal framework. 
+The January 14, 2025 FDA response to Mr. Shannon's letter to Commissioner Robert Califf explained that 21 
+C.F.R. § 820.170(a) concerns installation and inspection instructions and requires those instructions to be available 
+to installers. This is especially relevant because Mr. Shannon operates as an FDA-regulated manufacturer and 
+installer and installs used and resold medical-imaging systems. 
+The administrative, technical, and litigation records may appropriately be compared for consistency. Philips's 
+manuals, installation materials, and service documentation describe installation, testing, configuration, 
+maintenance, and service procedures used to place and keep devices in operation. In litigation and related 
+communications, Philips has asserted that access to particular tools, instructions, or service environments was 
+unauthorized, proprietary, outside the asserted entitlement, or not material to the legal issue presented . 
+Mr. Shannon respectfully contends that these positions can create a practical tension even when they address 
+different legal questions: technical and regulatory-facing materials describe procedures used for installation and 
+service, while litigation positions may treat access to the same or related pathways as actionable. The Copyright 
+Office need not decide that Philips made a false or inconsistent statement to any agency. The narrower point is that 
+the record demonstrates uncertainty capable of chilling independent service. 
+The Copyright Office is not being asked to enforce the FDCA or decide an FDA violation. It is being asked to 
+recognize the adverse effect created when an OEM invokes private claims to make access prohibitively dangerous 
+even where that access may be necessary for lawful installation, servicing, testing, or safety work. 
+Section 360k must be used with precision because it expressly addresses state and local device requirements. Mr. 
+Shannon relies on it only where a private or state-law theory would impose a device-related requirement that 
+conflicts with the governing federal framework. Sections 360kk and 36000 apply specifically to electronic-product 
+radiation-control standards and prohibited acts and are relevant to covered imaging equipment only where their 
+statutory subject matter and technical requirements apply. 
+IX. GOOD-FAITH EFFORTS TO REDUCE LITIGATION 
+Mr. Shannon did not begin by seeking additional litigation. He sought regulatory clarification, agency review, and 
+direct resolution. FDA responded to his letter to Commissioner Califf, clarified relevant installation requirements, 
+directed him to servicing guidance, and shared his concerns with its Division of Regulatory Programs. 
+Mr. Shannon and personnel acting with him then provided the FDA and DICE correspondence to Philips through 
+communications titled "Regulatory Request" and "21 CFR820-l 70 Compliance Request." Those communications 
+sought a prospective compliance path, specific installation and service information, and a practical resolution 
+intended to reduce legal conflict. 
+Philips's November 10, 2025 response confirms receipt of the FDA and DICE materials but relied on the prior 
+judgment and injunction, rejected further engagement, and reserved Philips's rights. This chronology supports Mr. 
+Shannon's position that he attempted to narrow the dispute before seeking broader federal intervention. 
+X. FEDERAL OUTREACH AND THE ENFORCEMENT GAP 
+Mr. Shannon's records reflect outreach to FDA, DICE, FTC, HHS, DOJ, congressional offices, the Copyright 
+Office and Library of Congress process, and other authorities with potential responsibility for medical-device 
+safety, competition, cybersecurity, copyright policy, or oversight. 
+The problem crosses agency boundaries. The Copyright Office administers the exemption; FDA and HHS oversee 
+medical-device safety and health policy; FTC addresses competition; cybersecurity authorities address network 
+risks; and Congress has legislative and oversight authority. Yet no current mechanism guarantees that an ISO can 
+rely on the exemption without first surviving private litigation. 
+Marshall R. Shannon - Section 120 I Medical-Device Petition - Page 6
+
+Mr. Shannon has not received an enforcement response that prevents an OEM from continuing to assert 
+overlapping DMCA, CF AA, trade-secret, fraud, contract, or related claims against individual ISOs and service 
+professionals. The agencies may clarify rules, receive complaints, or preserve the exemption, while the cost of 
+defending those federal policies remains with the private servicer. 
+A multibillion-dollar manufacturer can treat multiyear litigation expense as a recurring cost of enforcement. A 
+small ISO cannot. The process may become the punishment, producing business failure, employee losses, reduced 
+service competition, greater OEM dependence, and delayed patient-safety work before the exemption is ever 
+meaningfully applied. 
+Whether a private enforcement theory has displaced the practical effect of a Library of Congress exemption or an 
+FDA-regulated service pathway should not depend on the financial endurance of one individual ISO. An individual 
+engineer or small service company should not be required to carry, alone, the cost of defining the boundary among 
+copyright law, computer-access law, medical-device regulation, owner authorization, and patient-safety 
+obligations. 
+That is a governmental policy question. The Copyright Office, Congress, and the agencies responsible for medical­
+device safety should have a formal mechanism to examine the issue before private litigation expenses eliminate the 
+service provider whose conduct presents the question. Otherwise, the exemption and regulatory pathway may be 
+circumvented in practice through cost and delay without ever being formally repealed. 
+The resulting market effect reaches beyond the named litigants. Hospitals may lose experienced service providers, 
+employees may lose their jobs, used equipment may become more difficult to place back into service, and rural or 
+resource-limited facilities may face longer downtime. The exemption's public benefit is reduced whenever fear of 
+litigation prevents people from accepting otherwise lawful work. 
+XI. ADVERSE EFFECTS ON THE MEDICAL-DEVICE COMMUNITY 
+• ISOs and engineers decline lawful service work because access methods may trigger litigation. 
+• Owners lose meaningful control over service choices, remote access, and data generated by their own 
+equipment. 
+• Hospitals and clinics face longer downtime, fewer service options, and increased cost. 
+• Engineers may be unable to perform installation, calibration, testing, and return-to-service work required for 
+safe operation. 
+• Small service providers may be spent out of business before a court reaches the exemption question. 
+• The exemption becomes a theoretical defense rather than a practical authorization. 
+XII. REQUESTED SAFEGUARDS AND LIMITATIONS 
+The requested exemption should protect only owner-authorized, non infringing activity undertaken for lawful 
+diagnosis, installation, maintenance, repair, calibration, cybersecurity, testing, or return to service. 
+For clarity, an OEM-prescribed software reload, restoration, or reinstallation performed for a legitimate service 
+purpose should remain within the exemption even when the procedure necessarily replaces or modifies system 
+files. This proposed protection would not alter any otherwise applicable preservation obligation or resolve a 
+separate evidentiary issue, which would remain subject to the governing law and the facts of the particular matter. 
+It should not protect: 
+• copyright infringement or distribution of copyrighted works; 
+• trade-secret theft or unauthorized disclosure; 
+• fraud, impersonation, or trafficking in access tools; 
+• destruction or concealment of evidence; 
+• falsification or concealment of service history; 
+• disabling safety controls or activating unlicensed clinical functionality; or 
+• use of unrelated higher-level materials beyond the lawful service purpose. 
+Marshall R. Shannon - Section 120 l Medical-Device Petition - Page 7
+
+XIII. REQUEST FOR FORMAL REVIEW AND INVESTIGATIVE FOLLOW-UP 
+Mr. Shannon respectfully requests a formal stakeholder meeting, technical conference, roundtable, evidentiary 
+hearing, or other proceeding addressing how access controls, combined service levels, remote monitoring, 
+automatic data transmission, litigation threats, account restrictions, and overlapping CF AA and trade-secret claims 
+affect the practical use of the medical-device exemption. 
+He further requests that the record be preserved for congressional and interagency review of whether additional 
+statutory protections, fee-shifting, a safe harbor, an enforcement mechanism, or formal coordination are needed to 
+prevent litigation cost and delay from nullifying the exemption. 
+XIV. AVAILABILITY FOR HEARING, TESTIMONY, AND CONTINUING ASSISTANCE 
+Mr. Shannon is willing, able, and available to assist in any formal manner the Copyright Office, the Library of 
+Congress, Congress, a committee or subcommittee, or another authorized federal body considers useful. He will 
+participate in virtual or in-person public hearings, roundtables, technical conferences, oral questioning, 
+congressional inquiries, demonstrations, or other proceedings that the responsible body formally authorizes. 
+He is willing to travel to Washington, D.C., or another requested location if an in-person appearance is authorized, 
+and he is equally willing to participate virtually . He is prepared to testify under oath when the governing procedure 
+permits, answer questions, explain the service architecture in plain technical terms, distinguish access levels from 
+actual use, and authenticate documents and events within his personal knowledge. 
+He can provide or help organize service manuals, screenshots, timelines, public docket records, PACER documents 
+lawfully obtained, agency correspondence, certified-mail evidence, technical declarations, system-access 
+examples, remote-monitoring information, installation and calibration records, and demonstrations of the service 
+processes discussed in this submission, subject to applicable confidentiality restrictions and court orders. 
+Mr. Shannon also offers continuing assistance after any initial filing or hearing. He will answer follow-up 
+questions, submit supplemental declarations when procedurally permitted, identify additional witnesses or 
+technical sources, report material public-docket developments in relevant proceedings, and assist staff in 
+understanding how the exemption operates in hospitals, clinics, imaging centers, and service organizations. 
+His purpose is not to dictate the outcome. It is to ensure that the responsible governmental bodies have access to a 
+complete field-based record from someone who has installed, repaired, calibrated, relocated, and returned medical­
+imaging systems to service for nearly thirty years. 
+Mr. Shannon also intends to remain an active and responsible advocate for safe medical devices, protection of 
+patient safety, and continued governmental attention to unresolved patient and device-safety concerns. His 
+advocacy will continue through lawful reporting, technical education, participation in public proceedings, 
+preservation of relevant records, and cooperation with regulators, legislators, investigators, device owners, 
+hospitals, and service professionals. 
+He recognizes that reasonable people and institutions may disagree about the legal or technical conclusions to be 
+drawn from particular events. His continuing role is to present the facts within his knowledge, explain the field 
+consequences of restricted service access, and encourage solutions that place safe device operation and patient 
+protection at the center of the federal policy discussion. 
+XV. CONCLUSION 
+The medical-device exemption should protect real-world service, including OEM-prescribed software reloads and 
+restorations used to address malfunctioning software or changes in access architecture, rather than exist merely as a 
+paper defense available only after years of costly litigation. The Office should renew the existing exemption, 
+clarify the covered service activities, address commingled access controls and owner-authorized remote-service 
+changes, and preserve a complete record for congressional and interagency review. 
+Marshall R. Shannon - Section 120 I Medical-Device Petition - Page 8
+
+Without practical protection against litigation-based elimination, the medical-device community may lose the 
+independent providers the exemption was intended to protect, while device owners, hospitals, and patients bear the 
+consequences. 
+Mr. Shannon respectfully asks that this submission, the supporting agency correspondence, the documented 
+private-litigation examples, and the limited purpose of his declaratory-judgment action be considered together as 
+evidence that a clear governmental pathway is needed. He remains available to help the Copyright Office, the 
+Librarian, Congress, or another authorized body develop that record. 
+Regardless of the outcome of this particular petition, Mr. Shannon will remain available as an advocate and 
+technical resource whenever medical-device access, service restrictions, device performance, or continuing patient­
+safety concerns warrant formal review. 
+Respectfully submitt~~- / - ~ = -
+Signature: .,;,e..__;=--- -!!-~- ;:,:-"--1-- ----=-- --4-1-·- .-:::...... _ __; ,,._ _ _ 
+Marshall R. Shannon ) 
+Date: _2{/ ..::rQl'-'J z,,z_~ -f- J 
+EXHIBIT LIST 
+• Exhibit 1 - 2024 Register of Copyrights Recommendation and Final Rule. 
+• Exhibit 2 -Avante Health Solutions, Transtate Equipment Company, and Global Medical Imaging renewal 
+petition. 
+• Exhibit 3 - MITA and AdvaMed challenge materials and judicial decisions. 
+• Exhibit 4 - Philips v. Shannon public filings, judgment, and material orders. 
+• Exhibit 5 - November I 0, 2025 Carla M. Wirtschafter letter. 
+• Exhibit 6-Jose Pons/ Imaging Service Solutions February 6 and April 23, 2025 letters. 
+• Exhibit 7 - PACER docket and material filings in No. I :26-cv-01497 (D. Md.). 
+• Exhibit 8 - Philips v. TEC Holdings materials. 
+• Exhibit 9 - FDA and DICE correspondence, including the January 14, 2025 FDA response. 
+• Exhibit 10 - FTC, HHS, DOJ, congressional, and other federal outreach and certified-mail records. 
+• Exhibit 11 - Philips R3.2.3 Service Pack 5 newsletter (DEPl 51282, Rev. 00); CSIP Level 0, Level 1, and 
+Level 2 materials; IST smartcard, account, certificate, and entitlement materials; software installation manuals; 
+and technical records showing the mapping among CSIP level, 1ST entitlement, and software service level. 
+• Exhibit 12- Declarations and examples showing service, safety, downtime, and economic effects. 
+Marshall R. Shannon - Section 120 l Medical-Device Petition - Page 9
+
+7/24/26 , 2:12 PM 
+about :blank Page 1 of 1
+
+SELECTED SUPPORTING EXHIBITS 
+Prepared in Support of the Petition to Renew and Supporting 
+Statement and Petition for a New or Modified Exemption 
+Marshall R. Shannon 
+Tenth Triennial Section 1201 Rulemaking (2027 Cycle) 
+Submitted July 2026 
+Introduction 
+This appendix contains the principal portions of the supporting materials cited or relied upon in the 
+accompanying petition. Only the portions of each exhibit directly relevant to the petition are included 
+in this appendix to facilitate efficient review. A substantially larger exhibit archive, including 
+complete source documents and additional supporting materials, has been maintained by the 
+Petitioner. 
+The Petitioner is prepared to provide the complete exhibit archive, additional supporting 
+documentation, or any underlying source materials upon request by the Copyright Office or as 
+otherwise permitted during subsequent stages of this rulemaking proceeding . 
+The Petitioner has made every effort to provide complete and accurate excerpts. Any omissions are 
+intended solely to eliminate unnecessary duplication or unrelated material and should not be 
+construed as altering the meaning or context of the original source documents. 
+Table of Contents (Planned Appendix) 
+Appendix Exhibit Description 
+1 Cover Cover Page 
+2 Intro Introduction 
+3 TOC Table of Contents 
+4 1A 2024 Final Rule - Selected Pages 
+8 1B Register's Recommendation - Selected Pages 
+14 2 2024 Avante Petition - Selected Pages 
+22 3 MITA/ D.C. Circuit Materials 
+25 4A Order 366 - Relevant Portions 
+27 5 Carla M. Wirtschafter Letter 
+31 6A Jose Pons Correspondence (Feb. 2025) 
+32 6B Jose Pons Correspondence (Apr. 2025) 
+33 BA TEC Opinion 
+37 9B FDA Letter (Jan. 14, 2025) 
+40 11A SP5 Newsletter
+
+44 11 B Panorama Manual 
+48 11C lntera Manual
+
+SELECTED SUPPORTING EVIDENCE 
+Appendix to Petition for Renewal and Supporting Statement 
+and Petition for a New or Modified Exemption 
+for Medical-Device Diagnosis, Installation, Maintenance, Repair, Calibration, and Return to 
+Service 
+Tenth Triennial Section 1201 Rulemaking 
+2027 Cycle - Docket No. 2026-4 
+Marshall R. Shannon 
+Petitioner 
+Curated appendix of petitioner-specific evidence . Copyright Office materials already in the administrative record are cited in 
+the Petition and are not reproduced here. 
+Marshall R. Shannon - Selected Supporting Evidence Appendix Page 1 of 47
+
+INTRODUCTION AND CHRONOLOGY 
+This appendix contains selected evidence unique to the Petitioner's experience, regulatory outreach, and 
+the practical conflict described in the accompanying Petition. It does not reproduce the Copyright Office's 
+own final rules, recommendations, or prior medical-device petition materials. Those authorities are 
+referenced directly in the Petition. 
+Only relevant portions of longer documents are included. Excerpts are reproduced from the source 
+documents without substantive alteration. The Petitioner maintains complete source documents and a 
+substantially larger supporting archive and is prepared to provide additional materials upon request. 
+Chronology 
+Date Event 
+2023-2025 Petitioner sought FDA/DICE clarification concerning installation, servicing, and access to manufacturer lnstru 
+January 14, 2025 FDA responded to Petitioner's letter to Commissioner Robert Califf and addressed former 21 C.F.R. §§ 820. 1 
+November 3, 2025 Regulatory and compliance requests, with FDA/DICE materials, were provided to Philips. 
+November 10, 2025 Philips counsel responded, relied on the prior judgment, rejected further engagement, and reserved rights. 
+f-
+lions . 
+70 and 820. 
+2026 Petitioner submitted the present Section 1201 petition seeking a clear, usable exemption for lawful medical-dp vice work. 
+Marshall R. Shannon - Selected Supporting Evidence Appendix Page 2 of 47
+
+TABLE OF CONTENTS 
+Section Contents Appendix Pages 
+A FDA Commissioner and DICE correspondence (selected pages) 4-15 
+- --
+B Philips counsel response and underlying regulatory requests (selected pages) 16-22 
+C United States v. Philips RS North America LLC consent decree (selected pages) 23-26 
+D Philips SP5 Release 3.2.3 newsletter 27-32 
+E Panorama HFO System Installation Manual (selected pages) 33-35 
+F lntera Software Installation Manual R9.5.2 (selected pages) 36-39 
+G Philips Medical Systems Nederland v. TEC Holdings opinion (selected pages) 40-44 
+H Philips correspondence to Jose Pons 45-46 
+Availability of additional supporting materials 47 
+Citation note: Source-document page numbers remain visible on the reproduced pages. The footer supplies continuous 
+appendix pagination. 
+Marshall R. Shannon - Selected Supporting Evidence Appendix Page 3 of 47
+
+UNITED STATES DISTRICT COURT 
+FOR THE NORTHERN DISTRICT OF TEXAS 
+DALLAS DIVISION 
+PHILIPS NORTH AMERICA LLC 
+Plaintiff, 
+V. Case No.: 3:22-cv-00147-B 
+IMAGE TECHNOLOGY CONSUL TING, 
+LLC; MARSHALL R. SHANNON, IMAGE 
+TECHNOLOGY CONSUL TING II, LLC and 
+AXIOM IMAGING SOLUTIONS, INC., 
+Defendants. 
+NOTICE TO THE COURT OF FDA AND FCC INVESTIGATIONS AND IN SUPPORT 
+OF THE AMICUS BRIEF 
+Quinn, co-founder of CAPS, respectfully asks this court to accept this notice to the court 
+of FDA and FCC investigations and in support of the amicus brief to questions directly related to 
+the Amicus Brief and in an effort to assist this court in granting the amicus brief. 
+NEW FDA CORRESPONDENCE FOR TRIS COURT'S CONSIDERATION 
+Exhibit 1 is the January 14, 2025 correspondence between Mr. Marshall Shannon and 
+FDA Deputy Commissioner for Regulatory Policy Ms. Angela Krueger. 
+To be very clear, I had no personal knowledge or involvement in Mr. Shannon's written 
+correspondence with FDA Commissioner Robert Califf or Deputy Commissioner Krueger or any 
+other persons. 
+Once again, the FDA has clarified 21 CFR 820.170 and the fact that Mr. Shannon is an 
+installer and a manufacturer, exactly as Philips is an installer and manufacturer equal to Mr. 
+Shannon. 
+There can be no doubt that Philips is required and responsible, by virtual of FDA 
+clearance for the SlOk's for Philips devices, to comply with 21CFR 820.170 to assure all Philips 
+devices meet performance standards when installed by installers (third parties as defined in the 
+Marshall R. Shannon - Selected Supporting Evidence Appendix Page 4 of 47
+
+DICE letters) to protect patients' safety. 
+Indeed, this court found, as did the First Circuit court in Puerto Rico, that Philips has a 
+responsibility under 21CFR 820.170. 
+Ms. Krueger and other correspondence from the FDA regarding 820.170 is very clear and 
+without ambiguity. 
+Yet Philips offers nothing more in response to 820.170 issues in this court than a personal 
+slanderous attack on Quinn followed up with a contempt motion in Boston, a red herring for 
+dubious evil reasons, over the amicus brief filing in this court on issues of 820.170. 
+The FDA and FCC make the final investigatory determination of any legal issues 
+involving Philips FDA and FCC filings and, if any, fraud is involved in those filings. 
+The case is then referred to the courts for prosecution. 
+NEW FCC CORRESPONDENCE FOR TIDS COURT'S CONSIDERATION 
+Exhibit 2 is a filing made on January 31, 2025 with the FCC IG by Quinn. 
+The FCCIG allows "FCC employees, contractors, grantees, and members of the public 
+may submit a complaint allegations fraud, waste or abuse to the OIG." 
+In this filing Quinn is alleging fraud in the Philips North America and/or Philips 
+Netherlands FCC filings 47CFR Part 18,207 and 213 that requires operational, installation and 
+maintenance instructions similar to 21CFR 820.170 and other sections of21CFR, as Quinn 
+understands in the FCC response email filed in this court. 
+CONCLUSION 
+Ms. Krueger paragraph makes it clear that the 820.170 subject is important to the FDA. 
+"As a general matter, the agency does not comment on ongoing litigation. We are, 
+however, able to clarify two regulations relevant to your letter." 
+This subject, 820.170 and 820.200, was of such importance that the FDA commissioner 
+responded through bis Deputy on litigation matters, as has DICE in the letters submitted to this 
+court, knowing these letters would be used in this court and other courts for all time. 
+In essence, an argument could be made that the FDA is allowing and expecting the courts 
+to make a ruling on 21CFR 820.170 by answering the 820.170 and going beyond FDA policy. 
+Marshall R. Shannon - Selected Supporting Evidence Appendix Page 5 of 47
+
+This court has ruled Philips has a responsibility under 820.170 and this court has 
+received every communication from the FDA in regards to 820.170 in violation of the FDA 
+policy not to be involved in litigation. 
+I respectfully ask this court to rule on the amicus brief as the court's time permits 
+and in the interest of patient safety as soon as time permits. 
+Date January 31, 2025 
+Marshall R. Shannon - Selected Supporting Evidence 
+' ,,--..--·--·-·---' ( - -
+Thankyou. 
+/ ---~ ; ,,,· / ' 
+I \ , •'/· _,./ 
+\ -~-Tao'ru:S-t-Q1fi?tr__.. •• 
+Co:-founder CAPS 
+tP0Box4420 
+'Irvine, CA 92616 
+(724) 272 9953 
+Appendix Page 6 of 47
+
+UNITED STATES DISTRICT COURT 
+FOR THE NORTHERN DISTRICT OF TEXAS 
+DALLAS DMSION 
+PHILIPS NORTH AMERICA LLC 
+Plaintiff, 
+v. Case No.: 3:22-cv-00147-B 
+IMAGE TECHNOLOGY CONSUL TING, 
+LLC; MARSHALL R. SHANNON, IMAGE 
+TECHNOLOGY CONSULTING II, LLC and 
+AXIOM IMAGING SOLUTIONS, INC., 
+Defendants. 
+Certificate of Service 
+I, the undersigned, certify that I have served or caused to serve, on the 31th day of January 2025. 
+A copy of this the response to the Notice to the courts on FDA FCC matters, was served upon 
+each of the following persons and parties in interest at their address shown below. In addition, 
+the lawyers for Philips did not respond to my confer notice. 
+Ms. Carla M. Wirtschafter, Esq 
+ReedSmith LLP 
+1901 Avenue of the Stars, Suite 700 
+Los Angeles, CA 90067 
+Via email and regular mail 
+Via email, as directed, for each of the lawyers listed by Ms. Wirtscha.fter 
+Method of Service: regular mail to Ms. Wirtscha:fter and the Texas court and email to all other 
+Philips Jltlomey~_~dants attorneys 
+Th~:c;.;:,der CAPS 
+724 272 9953 
+Marshall R. Shannon - Selected Supporting Evidence Appendix Page 7 of 47
+
+Exhibit J 
+January 14, 2025 
+Marshall Shannon 
+Dear IVlr. Shannon, 
+This letter is in response to your letter to Commissioner Robert Califf, MD, u.s_ Food and Drug 
+Administration (FDA), describing your concerns and the challenges you have faced as a 
+manufacturer and installer of medical devices. As a general matter, the agency does not comment 
+on ongoing litigation. We are, however, able to clarify two regulations relevant to your letter. 
+FDA regulation 21 CFR 820.170(a), relevant part shown below, is limited to instructions for the 
+installation and inspection of a medical device. It requires these instructions be available to 
+installers. 
+Each manufacturer of a device requiring installation shall establish and maintain 
+adequate installation and inspection instruction-., and where appropriate test 
+procedures. Instructions and procedures shall include directions for ensuring 
+proper installation so that the device will perform as intended after installation. 
+The manufacturer shall distribute the instructions and procedures with the device 
+or otherwise make them available to the person(s) installing the device. Section 21 
+CFR 820.170(a) . 
+FDA regulation 21 CFR 820.200(a), relevant part shown below, applies to the instructions and 
+procedures for rhe servicing that the manufacturer has specified as a requirement .. 
+Where servicing is a specified requirement, each manufacturer shall establish 
+and maintain instructions and procedures for performing and verifying that the 
+servicing meets the specified requirements. 
+Information about the best practices the FDA recommends with regards to servicing medical 
+devices and labeling considerations is available in the May 10, 2024, 
+Marshall R. Shannon - Selected Supporting Evidence Appendix Page 8 of 47
+
+Page 2 - Mr. Shannon 
+and FDA's IVlay 9, 2024, statement" 
+Thank you for contacting tl1e FDA. We ·also shared your letter with Olir Division of Regulatory 
+Programs to review for any allegations of regulatory misconduct . The acknowledgement letter 
+dated November 19, 2024, sent to you provides further information. We hope you find this reply 
+informative. 
+U.S. Foocl & Drug Admnisu~liot1 
+10903 Nev, Ham:ishire .Ci.venue 
+Silver Spring, MD 20993 
+Marshall R. Shannon - Selected Supporting Evidence 
+Sincerely, 
+Angela C. 
+Krueger-S 
+Angela Krueger 
+Digitally signed by 
+Angela C. Krueger -5 
+Date: 2025.01 . ;,, 
+09:,17:10-05'00' 
+Deputy Director for Regulatory Policy 
+Office of Product Evaluation and Quality 
+Center for Devices and Radiological Health 
+Food and Drug Administration 
+Appendix Page 9 of 47
+
+tom.joseph.quinn@gmail.com 
+From: 
+Sent: 
+To: 
+Subject: 
+tomjoseph.quinn@gmail.com 
+Friday, January 31, 2025 2:34 AM 
+hotline@fcc.gov 
+Philips NA and Philips NZ 
+Exhibit 2 
+Attachments: FCC response 207 213.pdf; Philips NZ FCC filings.pdf; Philips NZ list to certificate.pdf; 
+Philips NA FCC filingsjpeg 
+IG: 
+Enclosed is the recent correspondence with the FCC OTB, Mr. Ira Keltz acting Chief of OTB. 
+Additional enclosures are Philips North America (NA) grantee under code PDC filings and 
+Philips Netherlands (NZ) Grantee name 2AQ4B and listing of information filed by Philips NZ 
+under 2AQ4B. 
+A cursory review of Philips NA does not show any SDoC granted to Philips NA for RF devices 
+used in MRI' s. 
+A review of Philips NZ does show filings consistent with RF devices that may be used in 
+~'s. 
+From my understanding of Mr. Keltz email response of January 14, 2025 , "Mr. Quinn - 18.207 
+only refers to what a manufacturer would supply to the Commission as part of a • 
+report should such a report be requested by the Commission. As previously noted, 18.213 refers 
+to what is required to be provided to users; unless exempted under 18 .113. I hope that helps." 
+A reading of Philips NA and Philips NZ FCC filings it is unclear which company has filed for a 
+SDoC as required by FCC 47CFR part 18, sections 207 and 213, for use in MR.I's. 
+The exemptions, cited by Mr. Keltz, under 18.213 or the exemption in part 18.121 not cited by 
+Mr. Keltz does not apply to the filings of an SDoC by Philips NA or Philips NZ. 
+One thing is clear, Philips NA and Philips NZ does not comply with the mandatory 
+requirements of207 and 213 to provide Users ofMRI's with installation and maintenance 
+instructions as is mandatorily required. 
+Therefore, a case could be made, if proven, that Philips NA or/and Philips NZ committed fraud 
+in the filings used to be a grantee for an SDoC. 
+1 
+Marshall R. Shannon - Selected Supporting Evidence Appendix Page 1 O of 47
+
+I respectfully request a complete investigation and referral to the appropriate authority of 
+Philips NA and Philips NZ for violations of FCC laws and regulations for fraud in the filing of 
+SDoC applications and the failure to comply with 207 and 213. 
+Thank you, 
+Thomas J .. Quinn 
+724 272 9953 
+2 
+Marshall R. Shannon • Selected Supporting Evidence Appendix Page 11 of 47
+
+Office of Engineering and Technology 
+> 
+~-
+...,_ 
+-.. 
+. ~. 
+> > Grantee Search 
+76 Grantees Were Found That Match the Search Criteria: 
+Grantee Name: 
+Displaying records 71 through 76 of 76. 
+Philips 
+Healthcare 2 canal 
+2AOGX - Park 3rd 
+Connected Floor 
+Sensing 
+United N/A CAMBRIDGEMassachusettsStates 02141 Paul 12/01/2017 Branche 
+Venture 
+Philips 
+Consumer !ussendiepen N/ A Drachten 9206 Robert 04/07/2018 2APFC N/A Netherlands AD lifestyle Vermanen 
+B.V. 
+Philips 
+Medical 
+2AQ4B Systems Veenpluis 6 
+Nederland 
+B.V. 
+Philips 222 Jacobs 2ATC9 Health St Systems 
+Philips No.2 Keji 
+Goldway North 3rd 
+2AWTR (Shenzhen) Road, 
+Industrial Nanshan 
+Inc. District 
+G/F, Building 
+SE, No. 5, 
+PHIUPS Science 
+2AW4T Electronics Park East 
+Hong Kong Avenue, 
+Ltd Phase One, 
+Hong Kong 
+Science 
+5684 Jeannette 08/31/2018 N/A Best N/A Netherlands PC Becker 
+N/A Cambridge 
+N/A Shenzhen 
+Park, Pak 
+ShekKok, 
+United 
+Massachusetts States 
+N/A China 
+N/A New N/A China 
+Territories, 
+Hong Kong 
+Mark 02141 Nolin 
+518057 Disment 
+Yu 
+N/A 
+Mr Jeff 
+Chau 
+05/13/2019 
+07/02/2020 
+07/29/2020 
+Please use the Submit Inquiry llnk at 
+Federar Communications Commission Phone: 
+to send any comments or suggestions for this site 
+( 
+( 
+) 
+) 45 L Street NE TTY: 
+Washington, DC 20554 Fax: 
+E-mail: 
+Marshall R. Shannon - Selected Supporting Evidence Appendix Page 12 of 47
+
+Office of Engineering and Technology 
+> > > List Exhibits Page 
+17 Matches found for FCC ID 
+Attestation Adobe 72927 Attestation 07/27/2023 No No 07/27/2023 
+Statements Acrobat Letter US 
+PDF agent 
+Attestation Adobe 107967 Attestation 07/27/2023 No No 07/27/2023 
+Statements Acrobat Letter 
+PDF Antenna 
+Info 
+Attestation Adobe 128854 Attestation 07/27/2023 No No 07/27/2023 
+Statements Acrobat Letter 
+PDF covered 
+equipment 
+Block DiagramAdobe 74547 Block 07/27/2023Yes No 
+Acrobat Diagram 
+PDF 
+External Adobe 782224 ext photos 07/27/2023 No No 07/27/2023 
+Photos Acrobat 
+PDF 
+ID Adobe label and 07/27/2023 No No 07/27/2023 
+Label/Location Acrobat Location 
+Info PDF 
+Internal Adobe int photos 07/27/2023 No No 07/27/2023 
+Photos Acrobat 
+PDF 
+Operational Adobe 270231 operational 07/27/2023 Yes No 
+Description Acrobat description 
+PDF 
+Parts Adobe 455386 Parts List I 07 /27 /2023Yes No 
+List/Tune Up Acrobat 
+Info PDF 
+Parts Adobe 271003 Parts List II 07/27/2023Yes No 
+List/Tune Up Acrobat 
+Info PDF 
+Parts Adobe 233396 Parts List 07 /27 /2023Yes No 
+List/Tune Up Acrobat III 
+Info PDF 
+RF Exposure Adobe 474793 RF 07/27/2023 No No 07/27/2023 
+Info Acrobat Expsoure 
+PDF 
+Schematics Adobe 98632 Schematics 07/27/2023 Yes No 
+Acrobat 
+PDF 
+Test Report Adobe 674413 Test Report 07/27/2023 No No 07/27/2023 
+Acrobat 
+Marshall R. Shannon - Selected Supporting Evidence Appendix Page 13 of 47
+
+Lv io v ~ a6Bd x1puadd'v' aouap1A3 6u11Joddns papa1as - uouuBllS ·1:::1 IIB4SJBV\I 
+PDF 
+Test Setup Adobe 674413 test setup 07/27/2023 No No 07/27/2023 
+Photos Acrobat photos 
+PDF 
+Users Manual Adobe 2480860User Manual 07/27/2023 No No 07/27/2023 
+Acrobat 
+PDF 
+Users Manual Adobe 4147032User Manual07/27/2023No No 07/27/2023 
+Please use the Submit Inquiry link at 
+Federal Communications Commission 
+45 L Street NE 
+Washington, DC 20554 
+Acrobat 
+PDF 
+Phone: 
+TTY: 
+Fax: 
+E-mail: 
+to send any comments or suggestions for this site 
+( 
+( 
+) 
+)
+
+1:48 PM Thu• Jar- 16 
+technology 
+::-
+View 
+Form 
+"' 
+Displav 
+Exhibits 
+=> Seitrch 
+Display Display .t) l.!'. ,i<''1r. i 
+Grant Corresp-tl!.Gli 
+ondence 
+I~ Pl1ilips Medical Syslerns North 
+America Ct1. 
+I~ Philips Medical Systems North 
+America Co. 
+~ Philips Medical Systems North 
+America Co. 
+I~ ·,. Philips Medical Systems Nottll 
+Arner,ca Co. 
+11.i~ ~ i'hilips Medk:al Syst~ms North 
+America Co. 
+I~ Philips Medic.al Systems North 
+America Co. 
+Ii,;: .._ ~ Philips Mcdirnl Systems North 
+America Co. 
+1~:c:.'t Philips Medical Systems North 
+Amenca Co. 
+lli._"'9 
+'. 
+Philiµs Medical Systems North 
+Am<~ll[il Ca. 
+I~ Philips Medical Systems North 
+ArncriciJ Co. 
+I~ Philips Medical systems Nort11 
+Anicrica Co. 
+I.Ii , -41 Philips Medical Systems North 
+America Co. 
+1.!.i: ·"'l) Philips Medical Systems Nortil '· Arne, ica Co. 
+IJ.i.-~- ~ Philips Medical Systems Nortl1 
+America Co. 
+ILr:_· ~ Philips Medic.al Systems North 
+America Co. 
+I.W:~·•;,jj Philips Medic:c1I Systt,ms North 
+Am.-nca Co. 
+I~ Philips Mcdic;il Systems North 
+Amenca Co. 
+l~:."'ll Philips Medical Systems North 
+America Co. 
+11------..U nh.:1; ...... r.~ ..... r1;,..._1 I,,,._ , ... _,.., ri1 ..... r-L, 
+apps.fcc.gov 
+230 results were found that match the search criteria: 
+Grantee Code: 
+Displaving records 1 through 25 of 230. 
+:·.,.:Jr:-~~ :::ii•-:. filill!:£.i!E!!Ll~ ~ J:.,£;;.J.Q 
+~ 
+222 Jacobs CambridgeMA United 02141 PQCM2601A 
+Street St.itcs 
+222 Jacobs Ca rnbrldge MA United 02141 PQCM3813A 
+Street Slates 
+222 Jacobs Cambridge MA United 02141 PQCMJl:ll5A 
+Street States 
+222 Jacobs Ci1mb ridge MA United 0214] PQCM3816A 
+Street States 
+n ✓• J;ic:obs Carnhridge MA United 07141 PQCt,176-00 
+Street States 
+222 .lac.obs Cambridge MA United 02141 PQCM13JOA 
+Street States 
+222 Jarnbs C;m1b ridge MA United 021.'11 PQCM2601B 
+Street States 
+222 Jacobs Cambridge MA United 02141 PQCM2601A-95 
+Street St11tes 
+222 Jacobs Cambridge MA Unitt!cl 02141 PQC-4852 
+Street Stiltes 
+222 Jacobs Cambridge MA United 02141 PQCM4842A 
+Street Stutes 
+222 Jacobs Cambridge MA United 02141 PQC-WMTS-
+Street Slales MODULE 
+222 Jacobs Cambridge MA United 02141 PQC-MDL4B51 
+Strf'ct Stales 
+222 Jacol,s Cambridge MA United 02141 PQC-V-IMTS-
+Screet States MODULE 
+212 Jacobs Cambridge MA Unitecl 02J4] PQCM:U20A 
+Street States 
+~?2 foc.olJs C«mhridge MA United 0?.1'11 l'QC ,ms1 
+Street States 
+222 Jacobs Cimbridgi,MA United 021'11 PQCM4841A 
+Street States 
+222 J~cobs Carnbridgl' MA Unitl'cl 02141 PQCM3815A2 
+Street States 
+222 Jacobs CambridgeMA United 02141 PQC-MX40WL3 
+Street States 
+,-.~ 1~, ,..,., h,-. r-. .... -..h-:.-ir-,nl',ftll 11 ... : ..... n1 n.7-,,11 n("\r rnnnu1 
+• o1 9' 47% • 
+.t:1.r:- I ir.a\ ic,:, !i!:.:!i le: 
+.E!d.!E~ ,\ r.,·~r. C'r, 
+I);,·, : ..-. 
+Cr,ange in Identification 07/13/200159 
+Change in Identification OB/01/200191 
+Chan9e in Identification Ol:l/OG/2001 91 
+Change rn ldent1f1catlon 08/06/200 l 91 
+Chilnge in ldrntifoc;ition 10/?..2,/:WO 146 
+Change in Identification l 0/18/200 l -1C 
+Original Equipment 11/ 10/2{)04 6C 
+Original Equipment 09/19/2002 60 
+Original Eq•Jipm~nl 03/17/200724 
+Original Ec:uipment 11/04/200413 
+Class Jl Permissive 02/28/2006 13 
+Change, 
+Original Equipment 03/23/200724 
+Oriqrnal EQL.ipment o ✓i/27/20O5 n 
+Ongrnal f:quipment l 1/?.0/?.002 
+Origrnal EquipmP.nt o:v::n;::ioonl\ 
+Original Equipment J l/10/2004 13 
+Origini.ll Equipm!..!nl 10/ l7/200191 
+Class IT Permissive, 12/24/2015 24 
+Change 
+n .. : ... :.-..-.1 r~ .. ............ ,.'\P" ~, 11,-1,nnn.., 11 
+~ 
+0 
+LO .,.... 
+Q) 
+gi 
+a. 
+X 
+'6 
+C: 
+Q) 
+a. a. 
+< 
+Q) 
+0 
+C: 
+Q) 
+"C 
+·5 
+w 
+Cl 
+C: 
+~ a. a. ::::, 
+Cl) 
+-0 
+~ 
+Q) 
+<ii 
+Cl) 
+C: 
+0 
+C: 
+C: 
+ca .c 
+Cl) 
+a: 
+cii .c 
+~ ca 
+~
+
+ReedSmith 
+Driving progress 
+through partnership 
+Carla M. Wirtschafter 
+Direct Phone: +1 310 734 5253 
+Email: cwirtschafter@reedsmith.com 
+November 10, 2025 
+Reed Smith LLP 
+1901 Avenue of the Stars 
+Suite 700 
+Los Angeles, CA 90067-6078 
++1 310 734 5200 
+Fax +1 310 734 5299 
+reedsmith .com 
+Via Email ( benton .willii]ms@ benton, illiamspllc.com ; :rnstin.champ ion@championllp .com ) 
+Benton Williams 
+Benton Williams PLLC 
+100 Crescent Ct 
+Suite 700 
+Dallas, Texas 75201 
+Austin Champion 
+CHAMPION LLP 
+2200 Ross A venue 
+Suite 4500W 
+Dallas, Texas 75201 
+Re: David Milligan November 3, 2025 Communications 
+Dear Benton and Austin: 
+We are directing this letter to you based on our understanding that you continue to 
+represent Marshall Shannon, Image Technology Consulting, LLC, Image Technology 
+Consulting II, LLC and Axiom Imaging Solutions, Inc. ( collectively "Image Tech"). If 
+you no longer represent Image Tech and are not aware of them being represented by 
+other counsel in relation to these matters, please promptly advise us of that so we can 
+direct this letter to Image Tech directly. 
+On November 3, 2025, David Milligan sent two emails via his imagetechnology.net 
+email and cc'ed Mr. Shanonn, at his imagetechnology.net email address. One email 
+chain contained the subject "Regulatory Request" and included an undated letter. The 
+second email chain contained the subject "21CFR820-170 Compliance Request" and 
+attached corr~spondence with DICE from 2023 and a January 14, 2025 letter to Mr. 
+Shannon from Angela Krueger, Deputy Director for Regulatory Policy Office of Product 
+Evaluation and Quality, Center for Devices and Radiological Health, Food and Drug 
+Administration. 
+As you are well aware, there is a judgment against Image Tech that was entered on 
+March 21, 2025 in Case No. 3:22-cv-0147-B filed in the Northern District of Texas. As 
+set forth in the judgment, Image Tech was found liable to Philips for fraud, violations of 
+the Computer Fraud and Abuse Act, violations of the Digital Millenium Copyright Act 
+and misappropriation of Philips' trade secrets in violation of the Defend Trade Secrets 
+Act and the Texas Uniform Trade Secrets Act. Philips was awarded $6.05 million in 
+damages (plus pre-judgment and post-judgment interest at the applicable rate). Image 
+Tech and their employees (i.e. Mr. Milligan) were further enjoined from all of the 
+following: 
+a. Accessing, using, or providing others with access to, Philips' Restricted 
+ABU DHABI ♦ ASTANA ♦ ATHENS ♦ ATLANTA ♦ AUSTIN ♦ BEIJING ♦ BRUSSELS ♦ CENTURY CITY ♦ CHICAGO ♦ DALLAS ♦ DENVER ♦ DUBAI ♦ FRANKFURT ♦ 
+HONG KONG ♦ HOUSTON ♦ LONDON ♦ LOS ANGELES ♦ MIAMI ♦ MUNICH ♦ NEW YORK ♦ ORANGE COUNTY ♦ PARIS ♦ PHILADELPHIA ♦ PITTSBURGH 
+PRINCETON ♦ RICHMOND ♦ RIYADH ♦ SAN FRANCISCO ♦ SHANGHAI ♦ SILICON VALLEY ♦ SINGAPORE ♦ TYSONS ♦ WASHINGTON, D.C. ♦ WILMINGTON 
+US_ACTIVE-209460292 
+Marshall R. Shannon - Selected Supporting Evidence Appendix Page 16 of 47
+
+Benton Williams 
+Austin Champion 
+Page 2 
+Reed Smith 
+Proprietary Software and Information, 1 including without limitation the 
+use of Unauthorized Access Methods,2 including in connection with the 
+sale, repair, service, refurbishment, modification, or installation of any 
+Philips System,3 part installation of any Philips System, changing, 
+modifying, upgrading, or downgrading software; modifying software; or 
+enabling options without authorization from Philips on Philips Systems. 
+b. Using or directing, causing or allowing anyone else to use: 
+1. unauthorized 1ST Certificates and fake 1ST Certificates, including 
+but not limited to the Donald Trump certificate, the Level 3 
+certificate used in at least April 2018 on Philips Systems in Puerto 
+Rico and the 00000 certificate, 
+11. the computer inspected by Philips on February 8, 2023 and any 
+other computers in Defendants' possession, custody or control that 
+contain a fake or unauthorized 1ST certificate, modified registry 
+files or other tools, scripts or files to obtain access to CSIP Level 1 
+and higher tools, 
+m. 1ST "certificate generator" software, 
+1v. the "signature generator" software, 
+1 "Restricted Proprietary Software and Infonnation" means Philips' confidential or proprietary software and 
+other technologies and infonnation in or relating to a Philips System that has been restricted by Philips 
+through contract, confidentiality markings, access controls, or technological means (including Philips' 
+Integrated Security Tool ("IST")), including but not limited to (i) software and other information within a 
+Philips System (including service tools and log files), (ii) Philips' standalone software (including standalone 
+service tools distributed through Philips' Zeppelin platform or InCenter offline), and (iii) Philips' 
+confidential or proprietary documents and information (including servicing documents distributed on 
+InCenter online or InCenter oftline), Restricted Proprietary Software and Information includes, without 
+limitation, Philips Level 1, Level 2, and higher levels of Customer Service Intellectual Property ("CSIP"). 
+2 "Unauthorized Access Methods" means unauthorized access to, copying, distribution, or use of Restricted 
+Proprietary Software and Infonnation, including without limitation, by impersonating or using the login 
+credentials of any Philips employee or former employee, using any IST certificate generated by anyone 
+other than Philips (including IST certificates like the one on the computer in your possession, custody and 
+control that was imaged by Philips on February 8, 2023, or generated by any software alleged to be built by 
+Kalish or by any other "certificate generator" software), using any 1ST certificate intended by Philips for 
+another person or to which a person has not been provided legitimate entitlements by Philips, decrypting 
+Philips encrypted files, using software programs to gai.n unauthorized access to Restricted Proprietary 
+Software and Information using keys or password from any key generator or other program other than keys 
+or passwords provided directJy by Philips, modifying files or information on Systems (including modifying 
+registry files or keys) to gain access to Restricted Proprietary Software and Information modification of 
+clinical software, including clinical options, and possessing, selling, providing or using unauthorized copies 
+of Philips operating software for Philips Systems. 
+3 "Philips Systems" or "Systems" means all medical imaging devices and health care equipment 
+manufactured by Philips, including but not limited to ultrasound, computer tomography (CT), diagnostic x­
+rays, Image Guided Therapy (IGT), magnetic resonance (MR) and advanced molecular Imaging (AMI) 
+systems, including any and all related peripheral hardware and supporting technologies and anything that is 
+manufactured or sold by Philips. 
+- 2 -
+Marshall A. Shannon - Selected Supporting Evidence Appendix Page 17 of 47
+
+Benton Williams 
+Austin Champion 
+Page 3 
+v. InCenter offline, 
+Reed Smith 
+v1. all tools, programs, software, files, credentials or scripts located on 
+the computer inspected by Philips on February 8, 2023 capable of 
+providing access to Restricted Proprietary Software and 
+Information, including all copies, backups or similar computers or 
+drives, 
+v11. all copies of modified registry files capable of providing access to 
+Restricted Proprietary Software and Information, 
+v111. and any conduct described in paragraph a, above, and any other 
+substantially similar programs or files and any virtual machines, 
+computers, or computer images containing the same. 
+c. Engaging in any other conduct that constitutes unauthorized access or use 
+of Philips' proprietary, trade secret and copyright protected information. 
+d. Deleting, decrypting without authorization or modifying log files, 
+including without limitation all service log files or entries, on Philips 
+System. For avoidance of doubt, this does not limit the Defendants from 
+performing legitimate servicing of Philips System which may cause the 
+systems to create or modify log files or entries as part of their ordinary 
+operation. 
+e. Turning off or disabling Philips remote monitoring unless the owner of the 
+Philips System on which Philips remote monitoring is enabled has advised 
+Philips, in writing, that it requests Philips disable remote monitoring. 
+f. The Court further finds that because the conduct described in this 
+Paragraph 2 applies to computers used in or affecting interstate or foreign 
+commerce or communication, the forgoing injunction applies to conduct 
+involving a computer located outside the United States that is used in a 
+manner that affects interstate or foreign commerce or communication of 
+the United States. 
+Mr. Milligan's correspondence demands that Philips provide Image Tech with access to 
+the very proprietary tools and trade secret information that Judge Boyle enjoined them 
+from accessing and determined, when she granted Philips spoliation sanctions and 
+summary judgment, that Image Tech had unlawfully accessed and misappropriated in 
+violation of Philips' rights. 
+Disregarding these orders and the judgment, Mr. Milligan's correspondence continues to 
+repeat the same misinterpretation of the law that Judge Boyle rejected over and over 
+agam. As you know, in her order granting Summary Judgment Judge Boyle stated: 
+Defendants next argue that a regulation promulgated by the Federal Drug 
+Administration ("FDA"), 21 C.F.R. § 820.170, serves as a defense. Doc. 245, 
+Defs.' Br. Mot. Summ. J., 11-12. The Court has previously rejected this 
+argument and held that "§ 820.170 does not grant Defendants access to 
+- 3 -
+Marshall R. Shannon - Selected Supporting Evidence Appendix Page 18 of 47
+
+Benton Williams 
+Austin Champion 
+Page4 
+Reed Smith 
+unauthorized information." Doc. 27, Mem. Op. & Order, 12. The Court will not 
+revisit its prior Order and again concludes that § 820.170 does not serve as a 
+defense to Philips' claim under the CFAA. Dkt. 334, p. 16. 
+Indeed, Mr. Milligan's "21CFR820-170 Compliance Request" attempts to resurrect the 
+contentions about 3.2.3.5/ SP5 that were raised in the litigation and dismissed with 
+prejudice, and he even attaches documents that were part of the litigation record. See 
+Dkt. 348-2. Similarly, Mr. Milligan's "Regulatory Request" merely repeats these issues 
+and again attempts to suggest that Image Tech is entitled to proprietary and trade secret 
+information that is the subject of the injunction described above. 
+In addition, as Philips advised Mr. Milligan and Mr. Shannon in response to a similar 
+letter they sent on July 26, 2023: 
+21 CFR 820.170 provides that manufacturers, such as Philips, that require 
+installation of MR systems they sell make installation instructions available at 
+the time an MR system is sold. When Philips sells an MR system, it either 
+installs the system itself or, in limited circumstances, uses a Philips' authorized 
+installer. When Philips authorizes a third party installer to install an MR system 
+it has sold, Philips provides such instructions to its authorized installers. 21 CFR 
+820.170 does not apply to used and resold Philips MR systems because Philips 
+may not know the condition of the device once it has been sold to a third party. 
+Image Technology Consulting has never been a Philips' authorized installer of 
+MR systems nor has it been authorized by Philips to install a new Philips MR 
+system. Pursuant to 21 CFR 820.170, Philips has no obligation to provide 
+installation instructions, which are Philips' proprietary information, to Image 
+Technology. 
+Philips declines to continue to engage with Image Tech about issues that have been 
+litigated to final judgment in favor of Philips and against Image Tech and refers Mr. 
+Milligan and Mr. Shannon to the final judgment and Judge Boyle's orders throughout 
+the litigation, including at Dkts. 328 and 334 in response to the emails and attachments 
+sent on November 3, 2025. 
+Philips reserves all rights should Mr. Milligan, Mr. Shannon or anyone else continue to 
+harass Philips with issues that have been litigated and found to have no merit. 
+Very truly yours, 
+Carla M. Wirtschafter 
+CMW:hv 
+Enclosures 
+Marshall R. Shannon - Selected Supporting Evidence 
+- 4-
+Appendix Page 19 of 47
+
+From: dave imagetechnology.net <dave@imagetechnology.net > 
+Sent: Monday, November 3, 2025 12:46 PM 
+To: cdrhdev iceallegation s@fda.hhs.gov; dsma@cdrh.fda .gov; cdrhenforcement@fda .hhs.gov: dice@fda.hhs.gov; 
+abiy.desta@fda .hhs.com; Jakobs, Roy <Roy.Jakobs@philips.com>; steve.debaca@philips.com ; Hailing, Maria 
+<maria.heiling@philips.com > 
+Cc: marshal! imagetechnology.net <marshall@imagetechnology.net > 
+Subject: Regulatory Request 
+You don't often get email from dave@imaqetechnoloqy.ne t. Learn why this is important 
+Caution: This e-mail originated from outside of Philips, be careful for phishing. 
+Thank you. 
+David Milligan 
+dave@imagetechnology.net 
+For part requests please use 
+parts@imagetechnology.net 
+Image Technology Consulting, LLC 
+P.O. Box40 
+DeSoto, TX 75123 
+972-223-3008 Office 
+972-223-0586 Fax 
+214-263-0670 Cell 
+Marshall R. Shannon - Selected Supporting Evidence 
+2 
+Appendix Page 20 of 47
+
+Best regards, 
+Industry Team 
+Division of Industry and Consumer Education 
+Office of Communication and Education 
+Center for Devices and Radiological Health 
+U.S. Food and Drug Administration 
+This communication is consistent with 21 CFR 10.85 (k) and constitutes an informal 
+communication that represents my best judgment at this time but does not constitute 
+an advisory opinion, does not necessarily represent the formal position of FDA, and 
+does not bind or otherwise obligate or commit the agency to the views expressed. This 
+communication is intended for the exclusive use of the recipient(s) named in this 
+correspondence. It may contain information that is protected, privileged, or 
+confidential, and it should not be modified. It may not be disseminated, distributed, 
+reproduced, or copied to persons not authorized to receive such information. If you 
+are not the intended recipient, any dissemination, distribution, or copying is strictly 
+prohibited. If you think you have received this communication in error, please 
+immediately delete all copies from the saved sources and notify DICE by email 
+at: DICE(@,fda.hhs.gov immediately. 
+Excellent customer service is important to us. Please take a moment to provide feedback regarding the 
+customer service you have received: 
+https ://www.research.net/r/cd rhcustomerservice?O=800&D=870&8=872&E =&S= E 
+Original Message 
+From: tgeske@thetagammatech .com 
+Sent: 7/19/2023 
+Subject: Clarification on 820.170 
+Message: 
+To Whom It May Concern, 
+The last sentence of paragraph (a) 820.170 states: 
+"The manufacturer shall distribute the instructions and procedures with the device 
+Marshall R. Shannon - Selected Supporting Evidence Appendix Page 21 of 47
+
+or otherwise make them available to the person(s) installing the device." 
+Question: 
+Shall manufacturers who install devices distribute instructions and procedures 
+with the device, regardless of who does the installation? 
+Best Regards, 
+Tommy 
+Sent from my iPhone 13 Pro Max 
+Marshall R. Shannon - Selected Supporting Evidence Appendix Page 22 of 47
+
+Case 2:24-cv-00505-RJC Document 16 Filed 04/09/24 Page 1 of 73 
+UNITED STATES DISTRICT COURT 
+FOR THE WESTERN DISTRICT OF PENNSYLVANIA 
+UNITED STATES OF AMERICA, 
+Plaintiff, 
+v. 
+No. 2:24-cv-505-RJC PHILIPS RS NORTH AMERICA LLC, 
+RESPIRONICS CALIFORNIA LLC, and 
+PHILIPS HOLDING USA INC., 
+corporations, and ROY JAKOBS, STEVEN 
+B. CDEBACA, THOMAS FALLON, 
+DANIEL LEONARD, and JEFF DILULLO, 
+individuals, 
+CONSENT DECREE OF PERMANENT 
+INJUNCTION 
+Defendants. 
+Plaintiff, the United States of America, by its undersigned attorneys, having filed a 
+Complaint for Permanent Injunction against Philips RS North America LLC, Respironics 
+California LLC, and Philips Holding USA Inc., corporations, and Roy Jakobs, Steven B. C de 
+Baca, Thomas Fallon, Daniel Leonard, and JeffDiLullo, individuals (collectively, 
+"Defendants"), and Defendants, without admitting the allegations in the Complaint, having 
+appeared and having consented to entry of this Decree without contest and before any testimony 
+has been taken, and the United States of America having consented to this Decree, 
+IT IS HEREBY ORDERED, ADJUDGED, AND DECREED AS FOLLOWS: 
+1. This Court has jurisdiction over the subject matter of this action pursuant to 28 
+U.S.C. §§ 1331, 1337, and 1345, and 21 U.S.C. § 332, and has personal jurisdiction over all 
+parties. Venue is proper in this district under 28 U.S.C. § 139l(b) and (c). 
+2. The Complaint for Permanent Injunction states a cause of action against 
+Defendants under the Federal Food, Drug, and Cosmetic Act (the "Act"), 21 U.S.C. §§ 301-399i. 
+3. For purposes of this Decree, the following definitions shall apply: 
+Marshall R. Shannon - Selected Supporting Evidence Appendix Page 23 of 47
+
+Case 2:24-cv-00505-RJC Document 16 Filed 04/09/24 Page 3 of 73 
+manufacturing Devices ( as defined in subparagraph 3 .I. below) on or before December 31, 2022 
+and that they withdrew the establishment registration for that facility on or before January 31, 
+2023. If Defendants determine to resume manufacturing (as defined in subparagraph 3.P. below) 
+at the Carlsbad Facility or transfer manufacturing operations from the Carlsbad Facility to 
+another facility owned or operated by Defendants or an Affiliated Legal Entity, then they shall 
+give notice to FDA and such facility shall become subject to all the provisions of this Decree 
+applicable to the Covered Respironics Facilities. Defendants may not transfer any Device 
+manufacturing operations at a Covered Respironics Facility to a facility owned by an Affiliated 
+Legal Entity unless the owner of the transferee facility agrees to become a party to this Decree 
+with regard to the transferred Device manufacturing operations and this Decree has been 
+amended to reflect that agreement. 
+E. "Days" means calendar days, unless otherwise specified. 
+F. "Defendants' Devices" means all Devices manufactured at the 
+Defendants' Facilities (as defined in subparagraph 3.H. below). 
+G. "Defendant Entities" means (i) Philips RS North America LLC ("Philips 
+Respironics"), (ii) Respironics California LLC, and (iii) Philips Holding USA Inc. 
+H. "Defendants' Facilities" means (i) the Covered Respironics Facilities; (ii) 
+the Other SRC Facilities (as defined in subparagraph 3.S. below); (iii) any facility where Rework 
+(as defined in subparagraph 3.Y. below) operations on Defendants' Devices to effectuate Recalls 
+RES 88058 and RES 88071 have taken or are taking place; and (iv) any facility added to this 
+Decree pursuant to paragraph 22. However, this Decree does not apply to Devices manufactured 
+at any Defendants' Facility to the extent that those Devices are subject to the 2017 Consent 
+Decree (as defined in subparagraph 3.CC. below). A facility performing Rework operations as 
+3 
+Marshall R. Shannon - Selected Supporting Evidence Appendix Page 24 of 47
+
+Case 2:24-cv-00505-RJC Document 16 Filed 04/09/24 Page 4 of 73 
+described in clause (iii) of this subparagraph that is not owned or operated by the Defendant 
+Entities is a Defendants' Facility for purposes of this Decree only with respect to its Rework 
+operations on behalf of the Defendant Entities, and such a facility and the Devices manufactured 
+therein other than the Rework Devices (as defined in subparagraph 3.Z. below) are otherwise not 
+within the scope of this Decree. 
+I. "Device" shall have the meaning given to the term in 21 U.S.C. 
+§ 32l(h)(l) and shall include service/repair kits that may be used to manufacture the Rework 
+Devices. 
+J. "Discontinued Devices" shall include all Devices that were formerly 
+manufactured at any of the Covered Respironics Facilities that are no longer being manufactured 
+for United States distribution. Defendants shall submit a list of the Discontinued Devices to 
+FDA within ten (10) days of entry of this Decree. 
+K. "FDA" means the United States Food and Drug Administration. 
+L. "Form FDA 483" means the list of inspectional observations provided by 
+an FDA investigator at the close of an inspection. 
+M. "Good-Faith Attempt Process" shall have the meaning set forth in the 
+Recall Remediation Plan. 
+N. "Individual Defendants" means (i) Roy Jakobs, (ii) Steven B. C de Baca, 
+(iii) Thomas Fallon, (iv) Daniel Leonard, and (v) Jeff DiLullo. 
+0. "Long-Term Remediation Watch" shall have the meaning set forth in the 
+Recall Remediation Plan. 
+P. "Manufacture" or "Manufacturing" or "Manufacturing operations" 
+includes designing, manufacturing, fabricating, packing, assembling, processing, contract 
+4 
+Marshall R. Shannon - Selected Supporting Evidence Appendix Page 25 of 47
+
+Case 2:24-cv-00505-RJC Document 16 Filed 04/09/24 Page 17 of 73 
+months, in which case the export amount to implement the correction or removal shall not 
+exceed the excess Recall Remediation Devices for that model in addition to the proportionate 
+ex-U.S. market share. For purposes of this provision, "ex-U.S. market share" means the ex­
+U.S. percentage of total unit sales in the full year preceding June 1, 2021; 
+(iii) Are intended solely for the purpose of: (1) conducting any 
+clinical investigations and testing in accordance with 21 C.F.R. Part 812; or (2) exporting 
+Devices for use in clinical investigations performed outside of the United States provided that 
+Defendants also satisfy all of the conditions in subparagraph 8.B.; 
+(iv) Are intended solely for the purpose of performing routine service 
+or maintenance on, or are intended as a service replacement or service loaner for, Devices that 
+are in the possession of customers and consignees of Defendants or other users, or are 
+consumables, accessories, or replacement parts intended to support the use of Devices in the 
+possession of customers or other users, as set forth at Appendix 4; 
+(v) Are intended solely for use in nonclinical research (including 
+bench testing, market research, validation, human factors, and animal testing) or other non­
+human or nonclinical use, provided that Defendants label such Devices as "For [Research 
+Use/Animal Use/Demonstration/Validation Testing] Only - Not for Human or Clinical Use" 
+and they are used in a manner that does not involve use on human beings; or 
+(vi) Have been requested by Defendants in writing pursuant to this 
+subparagraph, provided that: (1) Defendants submit to FDA the documentation and justification 
+for such request that FDA deems necessary; and (2) the Defendants' request has been granted 
+by FDA in writing. In no circumstance shall FDA's silence be construed as a substitute for 
+written approval. 
+17 
+Marshall R. Shannon - Selected Supporting Evidence Appendix Page 26 of 47
+
+P ll PS 
+MR'I news 
+Service .-, __ -
+Introduction of Release 3.2.3. Service Pack 5 
+INTRODUCTION 
+This newsletter is intended to inform you on the changes made 
+in R3.2.3 Service Pack 5 
+R3.2.3 SPS will be made available for the Installed Base via 
+FCO78100492. 
+For a high level overview of issues resolved in R323 SP5, refer 
+to next chapter. For a complete overview of reported issues via 
+field feedback that are resolved in this Service Pack, refer to the 
+content of FCO78100492 available on In Center. 
+This newsletter is especially intended to inform you on the 
+changes made in this service pack related to CSIP. 
+A recording of the Webinar on introduction of R3.2.3 SP5 will 
+be made available in the MR Download section on lnCenter . 
++ archive + subscribe + unsubscribe 
+u " 
+November 2018 
+Document ID: DEP151282 rev 00 
+In this issue: 
+Introduction of R3.2.3 Service Pack 5 
+CSIP eve 1: 
+Tfils document or digital media and the information 
+contained in it is strictly reserved for current Philips 
+Healthcare (.Philips") personnel, Philips licensed 
+representatives and Philips customers who have 
+purchased a valid service agreement for use by the 
+customers designated in-house service employee on 
+equipment located at the customers designated site. Use 
+of this document or digital media by unauthorized persons 
+is strictly prohibited. This document or digital media must 
+be returned to Philips when the user is no longer licensed 
+and in any event upon Philips' first written request. 
+Proprietary Notice: 
+ffils document and the information contained in it is 
+proprietary and confidential information of Philips 
+Healthcare ("Philips") and may not be reproduced, copied 
+in whole or in part, adapted, modified, disclosed to others, 
+or disseminated without the prior written permission of the 
+Philips Legal Department. Use of this document and the 
+information contained in it is strictly reserved for current 
+Philips personnel and Philips customers who have a 
+current and valid license from Philips for use by the 
+customers designated in-house service employee on 
+equipment located at the customers designated site. Use 
+of this document by unauthorized persons is strictly 
+pro'1ibiled. Report violation of these requirements lo the 
+Philips Legal Department. This document must be 
+returned lo Philips when the user is no longer licensed and 
+in any event upon Philips' first written request. 
+Warranty Dlsclalmer Language: 
+Phllips provides this DOCUMENT without warranty of any 
+klnd. implied or expressed, inducting, but not limited to, the 
+implied warranties of merchantability and fitness for a 
+particular purpose. 
+Limitations of Liability Lan9ua9e: 
+Phihps has taKen care to ensure the accuracy of this 
+document. However, Phillps assumes no liability for errors 
+or omissions and reserves the right to make changes 
+without further notice to any products herein to improve 
+reliability, function, or design. Philips may make 
+improvements or changes in the product(s) or program(s) 
+described in this document at any time. 
+PHILIPS 
+The information contained in this message may be confidential and legally protected under applicable law. The message Is 
+intended solely for the addressee(s} . If you are not the intencled recipi ent, you are hereby notified hat any use, forwardi ng, 
+dissemina tion, or reproduction of this message is strictly prohibited and may be unlawful . lf you are not the intended recipient , 
+please contact the sender by return e-mail and destr oy all copies of the original message . 
+Marshall R. ShaBIWfl 5~i'!'rfe~ :~porting Evidence CSIP Level 1

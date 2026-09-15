@@ -1,0 +1,74 @@
+UNITED STATES COPYRIGHT OFFICE
+5
+ Petition for New Exemption Under 17 U.S.C. § 1201
+ Tenth Triennial Rulemaking
+New Exemptions, Expansions, or Modifications
+Use this form if you want to petition for a new exemption; modify a current exemption, such as altering the language in a current exemption; 
+or are seeking to engage in activities not currently permitted by an existing exemption. 
+Renewals of Exemptions
+Use the Petition to Renew a Current Exemption form to renew a current exemption with no changes. You must also file a renewal petition 
+if you are filing a new petition for expanding or modifying a current exemption.
+Item A.  Petitioners and Contact Information
+Please identify the petitioners and provide a means to contact the petitioners and/or their representatives, if any. The petitioner is the 
+individual or entity proposing the exemption. 
+U.S. Copyright Office     ·     Library of Congress     ·     101 Independence Avenue SE     ·     Washington, DC 20557-6400     ·     copyright.gov
+PETITION FOR NEW EXEMPTION UNDER 17 U.S.C. § 1201  REV: 06 ⁄ 2026
+Privacy Act Advisory Statement: Required by the Privacy Act of 1974 (P .L. 93-579)
+The authority for requesting this information is 17 U.S.C. §§ 1201(a)(1) and 705. Furnishing the requested information is voluntary. The principal use of the requested information is 
+publication on the Copyright Office website and use by Copyright Office staff for purposes of the rulemaking proceeding conducted pursuant to 17 U.S.C. § 1201(a)(1). NOTE: No other 
+advisory statement will be given in connection with this application. Please keep this statement and refer to it if we communicate with you regarding this petition.
+Please download this form before filling out any form fields.  
+Please submit a separate petition for each proposed exemption.
+Jamlark, LLC
+ 
+ryan@jamlark.org
+ 
+Ryan Castorina, owner
+
+Item B.  Description of Proposed New Exemption
+Provide a brief statement explaining the nature of the proposed new exemption. The information that would be most helpful to the Office 
+includes the following, to the extent relevant: (1) the types of copyrighted works that need to be accessed; (2) the physical media or 
+devices on which the works are stored or the services through which the works are accessed; (3) the purposes for which the works need to 
+be accessed; (4) the types of users who want access; and (5) the barriers that currently exist or which are likely to exist in the near future 
+preventing these users from obtaining access to the relevant copyrighted works.
+Petitioners need not propose precise regulatory language or fully define the contours of an exemption class. Rather, a short, plain 
+statement describing the nature of the activities the petitioners wish to engage in will be sufficient, as proponents will have the opportunity 
+to further refine or expound upon their initial petitions during later phases of the rulemaking. A complete legal and evidentiary showing 
+supporting this new exemption petition should accompany the comments in support of requested exemptions during the round 1 
+comment period. Those seeking to submit comments in response to a petition depend on proponents fulfilling the appropriate evidentiary 
+requirements, so providing a complete legal and evidentiary show in support of this new exemption is critical.
+NOTE: Examples of new petitions proposed last rulemaking cycle can be found at copyright.gov/1201/2024/petitions/proposed. 
+Informational guides explaining the 1201 rulemaking process and the petition phase can be found at copyright.gov/1201.
+If you need more space, please                                        to add additional pages to this form.
+click here
+Types of works: Motion pictures and television programs whose only or primary authorized release is on physical optical disc
+(DVD, Blu-ray, 4K UHD).
+ 
+Media/devices: Optical discs protected by CSS, AACS, or AACS2, where playback requires dedicated disc-reading hardware.
+ 
+Purpose: To permit format-shifting of a lawfully owned disc to a digital file for personal or controlled-circulation use, where the
+hardware required to play that disc is experiencing continuing, accelerating decline in availability, consistent with the existing
+standard applied to obsolete-format software and video games.
+ 
+Users: Owners of lawfully acquired optical discs — including individual consumers and physical media rental libraries maintaining
+circulating collections — seeking continued access to works they lawfully possess as compatible playback hardware becomes
+progressively harder to obtain.
+ 
+Barriers: Access to compatible optical disc playback hardware has been in continuous, accelerating decline rather than achieving
+a fixed point of total unavailability. Manufacturers have progressively removed optical drives from computers, gaming consoles,
+and televisions; multiple hardware manufacturers have discontinued production of dedicated disc players entirely, particularly for
+4K UHD; and no manufacturer has introduced a new consumer optical disc format or expanded production in over a decade. While
+used playback hardware for some formats remains findable on secondary markets, that supply is finite, non-replenishing, and
+subject to ongoing depletion through failure and attrition, with no new manufacture to sustain it — particularly acute for 4K UHD
+players, where multiple major manufacturers have ceased new production entirely. Section 1201(a)(1)(C) directs the Office to
+consider not only present adverse effects but whether users are likely to be adversely affected during the succeeding three-year
+period. Given this trajectory, the relevant question is not whether compatible hardware is available today in some diminished form,
+but whether it will remain reasonably available through 2030, when the exemption sought here would expire absent renewal. The
+continuing trend strongly indicates it will not. This circumstance is distinguishable from digital lending models rejected in prior
+copyright litigation involving literary works, where a functioning licensed digital alternative existed in the marketplace and the
+disputed activity was found to substitute for that existing, accessible market. Here, no such functioning alternative exists or is
+emerging: as compatible playback hardware disappears, the underlying physical rental and sale market for these works is itself
+becoming non-functional, independent of any action by the petitioner. The requested exemption would not displace an accessible
+licensed market; it would preserve access to works that would otherwise become permanently unreachable through any channel,
+licensed or otherwise, as the format's supporting hardware disappears.
+click here
